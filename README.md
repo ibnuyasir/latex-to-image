@@ -1,2 +1,2 @@
 ## Implementasi Latex to Image
-<img src="asset/tex.jpg"></img>
+<img src="assets/tex.jpg"></img>
